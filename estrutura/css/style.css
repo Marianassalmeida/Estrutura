@@ -1,0 +1,49 @@
+.title-section{
+    text-decoration: underline;
+    color:blue
+}
+
+.first-container{
+    background-color: blue;
+    width: 80%;
+    color: white;
+    padding-block: 15px;
+    padding-left: 15px;
+    margin-block: 15px;
+}
+
+.second-container{
+    background-color: blue;
+    width: 60%;
+    color: white;
+    padding-block: 15px;
+    padding-left: 15px;
+    margin-block: 10px;
+}
+
+.third-container{
+    background-color: blue;
+    width: 40%;
+    color: white;
+    padding-block: 15px;
+    padding-left: 15px;
+    margin-block: 15px;
+}
+
+.fourth-container{
+    background-color: blue;
+    width: 20%;
+    color: white;
+    padding-block: 15px;
+    padding-left: 15px;
+    margin-block: 15px;
+}
+
+.fifth-container{
+    background-color: blue;
+    width: 15%;
+    color: white;
+    padding-block: 15px;
+    padding-left: 15px;
+    margin-block: 15px;
+}
