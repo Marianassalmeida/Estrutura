@@ -47,3 +47,17 @@
     padding-left: 15px;
     margin-block: 15px;
 }
+
+.tabelaf1{
+    text-align: left;
+    width: 80%;
+}
+
+.tableheader{
+    color:gray;
+    font-size: 10px;
+}
+
+.graytableline{
+    background-color: lightgrey;
+}
