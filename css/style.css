@@ -51,6 +51,11 @@
 .tabelaf1{
     text-align: left;
     width: 80%;
+    border-collapse: collapse;
+}
+
+.tabelaf1, td{
+    padding:10px;
 }
 
 .tableheader{
@@ -58,6 +63,11 @@
     font-size: 10px;
 }
 
+.tableheader, th{
+    padding:10px;
+}
+
 .graytableline{
-    background-color: lightgrey;
+    background-color: rgb(244, 244, 244);
+    border-right: 0px !important;
 }
